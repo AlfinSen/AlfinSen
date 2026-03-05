@@ -24,6 +24,7 @@ I build practical software with clean structure and readable code.
 ## Connect
 
 - GitHub: [@AlfinSen](https://github.com/AlfinSen)
+- LinkedIn: [alfin-sen-varghese](https://www.linkedin.com/in/alfin-sen-varghese/)
 
 ---
 
