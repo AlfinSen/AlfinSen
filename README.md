@@ -30,13 +30,6 @@ Loop      : Think -> Build -> Test -> Refine -> Ship
   <img src="https://img.shields.io/badge/Vibe%20Coding-111111?style=for-the-badge&logo=githubcopilot&logoColor=00F5D4" />
 </div>
 
-## Clean Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlfinSen&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinSen&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
-</div>
-
 ---
 
 <div align="center">
