@@ -30,25 +30,11 @@ Loop      : Think -> Build -> Test -> Refine -> Ship
   <img src="https://img.shields.io/badge/Vibe%20Coding-111111?style=for-the-badge&logo=githubcopilot&logoColor=00F5D4" />
 </div>
 
-## Live Activity
+## Clean Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlfinSen&theme=react-dark&bg_color=0d1117&hide_border=true&line=00F5D4&point=00F5D4&color=ffffff" width="95%" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AlfinSen&show_icons=true&theme=transparent&hide_border=true&title_color=00F5D4&text_color=ffffff&icon_color=00F5D4" />
-  <img height="165" src="https://streak-stats.demolab.com?user=AlfinSen&theme=transparent&hide_border=true&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" />
-</div>
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinSen&layout=compact&theme=transparent&hide_border=true&title_color=00F5D4&text_color=ffffff" />
-</div>
-
-## Play Mode
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AlfinSen&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfinSen&layout=compact&theme=github_dark&hide_border=true&title_color=58a6ff" />
 </div>
 
 ---
