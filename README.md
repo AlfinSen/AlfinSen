@@ -15,6 +15,38 @@ I build practical software with clean structure and readable code.
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-111111?style=flat&logo=githubcopilot&logoColor=white)
 
+## Game Zone
+
+### 1) Dev Reflex Quiz
+
+<details>
+<summary>Q1: Which has the fastest lookup on average?</summary>
+
+- A) List
+- B) Dictionary / HashMap
+- C) Queue
+
+Answer: **B**
+</details>
+
+<details>
+<summary>Q2: Python, Java, C -> pick one for systems-level control?</summary>
+
+- A) Python
+- B) Java
+- C) C
+
+Answer: **C**
+</details>
+
+### 2) Guess My Current Mode
+
+<details>
+<summary>Click to reveal</summary>
+
+`Focus mode: build -> test -> polish -> repeat`
+</details>
+
 ## Current Focus
 
 - Building useful mini projects
