@@ -12,7 +12,7 @@ I build practical software with clean structure and readable code.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-111111?style=flat&logo=githubcopilot&logoColor=white)
 
 ## Current Focus
