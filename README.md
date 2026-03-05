@@ -1,4 +1,4 @@
-# Hi, I'm Alfin Sen
+# Hi, I'm Alfin Sen Varghese
 
 I build practical software with clean structure and readable code.
 
